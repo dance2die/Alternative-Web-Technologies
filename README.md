@@ -2,6 +2,8 @@
 
 ### This page is to list alternative web technologies/frameworks/libraries to use.
 Alternatives are listed in no particular order.
+
+If you'd like to contribute, please read the [contribution guideline](https://github.com/dance2die/Alternative-Web-Technologies/blob/master/CONTRIBUTION.md).
 ****
 ## [jQuery AJAX](http://api.jquery.com/jquery.ajax/)
 - [Axios](https://github.com/mzabriskie/axios) : Promise based HTTP client for the browser and node.js.
