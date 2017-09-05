@@ -28,3 +28,16 @@ Alternatives are listed in no particular order.
 - [Vue.js](https://vuejs.org/) : The Progressive JavaScript Framework
 - [Deku](https://github.com/anthonyshort/deku) : Render interfaces using pure functions and virtual DOM
 - [Virtual-DOM](https://github.com/Matt-Esch/virtual-dom) : A Virtual DOM and diffing algorithm
+
+## [Moment.js](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript
+- [date-fns](https://date-fns.org/) : Modern JavaScript date utility library
+- [YUI DataType](https://yuilibrary.com/yui/docs/datatype/) : The DataType Utility is a collection of classes that provide type-conversion and string-formatting convenience methods for numbers, dates, and XML documents
+- [Datejs](http://www.datejs.com/) : Datejs is an open-source JavaScript Date Library
+- [timeago](http://timeago.yarp.com/) : Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps 
+
+## [Underscore.js](http://underscorejs.org/) - a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects
+- [Lodash](https://lodash.com/) : A JavaScript utility library delivering consistency, modularity, performance, & extras
+- [Lazy.js](http://danieltao.com/lazy.js/) : Like Underscore, but lazier
+- Check out [stoeffel/awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) for a comprehensive list of Functional Programming Javascript libraries.
+
+
