@@ -8,7 +8,7 @@ Alternatives are listed in no particular order.
 - [SuperAgent](https://github.com/visionmedia/superagent) : Ajax with less suck - (and node.js HTTP client to match)
 - [Fetch](https://github.com/github/fetch) : A window.fetch JavaScript polyfill
 
-## [Bootstrap](http://getbootstrap.com/) / [Foundation](http://foundation.zurb.com/)
+## [Bootstrap](http://getbootstrap.com/) / [Foundation](http://foundation.zurb.com/) - CSS/Front-end Framework
 - [Skeleton](http://getskeleton.com/) : A dead simple, responsive boilerplate
 - [Wing](https://github.com/kbrsh/wing) : A beautiful CSS framework designed for minimalists
 - [Pure.css](https://purecss.io/) : A set of small, responsive CSS modules that you can use in every web project
@@ -23,3 +23,8 @@ Alternatives are listed in no particular order.
 - [Picnic CSS](https://picnicss.com/) : Lightweight and beautiful library
 - [Min](http://mincss.com/)
 
+## [React](https://facebook.github.io/react/) - A Javascript Library for Building User Interfaces
+- [Preact](https://preactjs.com/) : Fast 3kB alternative to React with the same ES6 API
+- [Vue.js](https://vuejs.org/) : The Progressive JavaScript Framework
+- [Deku](https://github.com/anthonyshort/deku) : Render interfaces using pure functions and virtual DOM
+- [Virtual-DOM](https://github.com/Matt-Esch/virtual-dom) : A Virtual DOM and diffing algorithm
