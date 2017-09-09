@@ -25,6 +25,13 @@ If you'd like to contribute, please read the [contribution guideline](https://gi
 - [Picnic CSS](https://picnicss.com/) : Lightweight and beautiful library.
 - [Min](http://mincss.com/)
 
+## ️⚡️[CSS Modules](https://github.com/css-modules/css-modules) - a CSS file in which all class names and animation names are scoped locally by default.
+- [JSS](http://cssinjs.org/?v=v9.0.0-pre.3) : JSS is a more powerful abstraction over CSS.
+- [Styled Components](https://www.styled-components.com/) : Visual primitives for the component age.
+- SASS
+- LESS
+
+
 ## ⚡️[React](https://facebook.github.io/react/) - A Javascript Library for Building User Interfaces
 - [Preact](https://preactjs.com/) : Fast 3kB alternative to React with the same ES6 API.
 - [Vue.js](https://vuejs.org/) : The Progressive JavaScript Framework.
