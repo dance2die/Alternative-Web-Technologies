@@ -24,12 +24,24 @@ If you'd like to contribute, please read the [contribution guideline](https://gi
 - [Lotus](http://goatslacker.github.io/lotus.css/) : a small (~1.8k) and powerful css library for the responsive web.
 - [Picnic CSS](https://picnicss.com/) : Lightweight and beautiful library.
 - [Min](http://mincss.com/)
+- [Sly](http://darsa.in/sly/) - JavaScript library for one-directional scrolling with item based navigation support
 
 ## ️⚡️[CSS Modules](https://github.com/css-modules/css-modules) - a CSS file in which all class names and animation names are scoped locally by default.
 - [JSS](http://cssinjs.org/?v=v9.0.0-pre.3) : JSS is a more powerful abstraction over CSS.
 - [Styled Components](https://www.styled-components.com/) : Visual primitives for the component age.
-- SASS
-- LESS
+- [Sly](http://darsa.in/sly/) - JavaScript library for one-directional scrolling with item based navigation support
+
+## [LESS](http://lesscss.org/) : CSS Preprocessors
+- [SASS](http://sass-lang.com/) : Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+- [Stylus](http://stylus-lang.com/) : EXPRESSIVE, DYNAMIC, ROBUST CSS.
+- [CSS Crush](http://the-echoplex.net/csscrush/) : A standards inspired CSS pre-processor.
+- [Myth](http://www.myth.io/) : Myth is a preprocessor that lets you write pure CSS without having to worry about slow browser support, or even slow spec approval. It's like a CSS polyfill.
+- [Rework](https://github.com/reworkcss/rework) : CSS manipulations built on css, allowing you to automate vendor prefixing, create your own properties, inline images, anything you can imagine!
+- [Stylecow](https://stylecow.github.io/) : Modern CSS to all browsers
+- [cssnext](http://cssnext.io/) : Use tomorrow’s CSS syntax, today.
+- [PostCSS](http://postcss.org/) : A tool for transforming CSS with JavaScript
+- [Pleeease](http://pleeease.io/) : Pleeease is a Node.js application that easily process your CSS.
+- [CSS-On-Diet](http://cssondiet.com/) : A preprocessor for designers
 
 
 ## ⚡️[React](https://facebook.github.io/react/) - A Javascript Library for Building User Interfaces
